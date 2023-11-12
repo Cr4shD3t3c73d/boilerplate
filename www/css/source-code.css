@@ -1,3 +1,7 @@
 source-code {
+  color: #FF0000;
+  background-color: #DADADA;
+  padding: 2px;
+  font-size: 105%;
   font-family: monospace;
 }
